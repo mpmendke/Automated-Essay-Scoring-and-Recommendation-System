@@ -2,7 +2,7 @@
 This repository consists of the code used in my research project for an Msc in Data Science. The project is based on works done in ‘Automated assessment of non-native learner essays: Investigating the role of linguistic features’ by Sowmya Vajjala (2016). The code includes following functions:
 - Formatting of CLC-FCE dataset, based on work done by Gwenaelle Cunha Sergio (2019).
 - Formatting of text scripts for discourse cohesion features, based on work done by Emily Pitler and Ani Nenkova (2009).
-- 87 distinct Feature Extraction for training and test data, based on work done by Sowmya Vajjala (2016).
+- 86 distinct Feature Extraction for training and test data, based on work done by Sowmya Vajjala (2016) and additional readability features.
 - Implementation of eight ML regression models for AES systems.
 - Identifying top 10 best feature predictors.
 - Performance of Ridge regression model for each feature group.
