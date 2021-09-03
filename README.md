@@ -6,7 +6,7 @@ This repository consists of the code used in my research project for an Msc in D
 - Implementation of eight ML regression models for AES systems.
 - Identifying top 10 best feature predictors.
 - Performance of Ridge regression model for each feature group.
-- Implementation of six CLustering algorithm for Recommendation systems.
+- Implementation of six Clustering algorithms for Recommendation systems.
 
 ## References
 - Pitler, E. and Nenkova, A., 2009. Using Syntax to Disambiguate Explicit Discourse Connectives in Text. Proceedings of ACL, short paper, pp: 13-16.
